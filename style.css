@@ -1,0 +1,32 @@
+#container {
+    height: 100vh;
+    /* background-color: #eac0ff; */
+    background: rgb(2, 0, 36);
+    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(164, 91, 97, 1) 0%, rgba(0, 212, 255, 1) 88%);
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+body {
+    margin: 0px;
+}
+
+#title {
+    float: left;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+#menu {
+    float: right;
+}
+
+.item {
+    float: left;
+    margin-right: 30px;
+    color: white;
+    font-size: 30px;
+    opacity: 0.5;
+}
